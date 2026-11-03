@@ -57,16 +57,18 @@ I build software and hardware projects, explore practical applications of AI, an
 - Internet of Things and Robotics
 - Open Source Software
 
+
 ## 🚀 Projects
 
 | Project | Description |
 |---|---|
 | [Kreedex](https://kreedex.vercel.app) | A grassroots sports screening platform designed to make fitness assessment more accessible. |
-| BreakCheck | A tool for detecting API compatibility issues and breaking changes. |
-| CanSat | An embedded systems and satellite telemetry project using ESP32 and sensors. |
-| Spendysis | A personal project in the finance and expense-management space. |
-| WiselyFin | An AI/voice-based gamified financial literacy platform. |
-| Smart Social Distancing Belt | An Arduino-based hardware project using ultrasonic sensors and a buzzer. |
+| [BreakCheck](https://breakcheck-live.vercel.app/) | A tool for detecting API compatibility issues and breaking changes. |
+| [CanSat 2026](https://github.com/Harsheel-Kumar-Sahoo/CanSat-2026) | An embedded systems and satellite telemetry project using ESP32 and sensors. |
+| [Spendysis](https://spendysis.vercel.app/) | A personal finance and expense-management application. |
+| [WiselyFin](https://harsheel-kumar-sahoo.github.io/WiselyFin/) | An AI/voice-based gamified financial literacy platform. |
+| [Smart Social Distancing Belt](https://harsheel.vercel.app/projects/distancing-belt) | An Arduino-based hardware project using ultrasonic sensors and a buzzer. |
+
 
 ## 📊 GitHub Statistics
 

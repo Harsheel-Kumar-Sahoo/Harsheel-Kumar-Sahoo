@@ -55,6 +55,9 @@
 
 | Project | Description |
 |---|---|
+| [ProxyBook](https://proxybook.vercel.app) | Web app where college friends log, confirm and settle up the class-attendance proxies they do for each other. |
+| [Eureka-Daily](https://eureka-daily.vercel.app) | It shows you what happened in science on any given day, with a short story for each event and a special section for Indian science. |
+| [Spendyis](https://spendysis.vercel.app/) | A modern expense tracker PWA with accounts, UPI/cash/card tracking and PDF reports |
 | [Kreedex](https://kreedex.vercel.app/) | A grassroots sports screening platform designed to make fitness assessment more accessible. |
 | [BreakCheck](https://breakcheck-live.vercel.app/) | A tool for detecting API compatibility issues and breaking changes. |
 | [CanSat 2026](https://github.com/Harsheel-Kumar-Sahoo/CanSat-2026) | An embedded systems and satellite telemetry project using ESP32 and sensors. |

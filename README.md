@@ -53,16 +53,18 @@
 
 ## Projects
 
+## Projects
+
 | Project | Description |
 |---|---|
-| [WiselyFin Plus](https://wiselyfin-plus.vercel.app) | The sequel to WiselyFin. A gamified financial literacy app for India with short lessons in 5 languages, daily challenges, calculators, a budget tracker and virtual-money investing practice. Currently in progress. |
-| [MuleNet-Graph](https://mulenet-graph.vercel.app/) | A research prototype that detects UPI mule-account rings in real time using streaming graph neural networks. Built for the GIFT FutureLab Grand Challenge 2026-27 on synthetic data. |
-| [ProxyBook](https://proxybook.vercel.app) | Web app where college friends log, confirm and settle up the class-attendance proxies they do for each other. |
-| [Eureka-Daily](https://eureka-daily.vercel.app) | It shows you what happened in science on any given day, with a short story for each event and a special section for Indian science. |
-| [Spendysis](https://spendysis.vercel.app/) | A modern expense tracker PWA with accounts, UPI/cash/card tracking and PDF reports. |
-| [BreakCheck](https://breakcheck-live.vercel.app/) | A tool for detecting API compatibility issues and breaking changes. |
-| [Kreedex](https://kreedex.vercel.app/) | A grassroots sports screening platform designed to make fitness assessment more accessible. Selected for the Grand Finale of the Sewa First Innovation Challenge 2026. |
-| [CanSat 2026](https://github.com/Harsheel-Kumar-Sahoo/CanSat-2026) | An embedded systems and satellite telemetry project using ESP32 and sensors. |
+| [WiselyFin Plus](https://harsheel.vercel.app/projects/wiselyfin-plus) | The sequel to WiselyFin. A gamified financial literacy app for India with short lessons in 5 languages, daily challenges, calculators, a budget tracker and virtual-money investing practice. Currently in progress. |
+| [MuleNet-Graph](https://harsheel.vercel.app/projects/mulenet-graph) | A research prototype that detects UPI mule-account rings in real time using streaming graph neural networks. Built for the GIFT FutureLab Grand Challenge 2026-27 on synthetic data. |
+| [ProxyBook](https://harsheel.vercel.app/projects/proxybook) | Web app where college friends log, confirm and settle up the class-attendance proxies they do for each other. |
+| [Eureka-Daily](https://harsheel.vercel.app/projects/eureka-daily) | It shows you what happened in science on any given day, with a short story for each event and a special section for Indian science. |
+| [Spendysis](https://harsheel.vercel.app/projects/spendysis) | A modern expense tracker PWA with accounts, UPI/cash/card tracking and PDF reports. |
+| [BreakCheck](https://harsheel.vercel.app/projects/breakcheck) | A tool for detecting API compatibility issues and breaking changes. |
+| [Kreedex](https://harsheel.vercel.app/projects/kreedex) | A grassroots sports screening platform designed to make fitness assessment more accessible. Selected for the Grand Finale of the Sewa First Innovation Challenge 2026. |
+| [CanSat 2026](https://harsheel.vercel.app/projects/cansat) | An embedded systems and satellite telemetry project using ESP32 and sensors. |
 | [Smart Social Distancing Belt](https://harsheel.vercel.app/projects/distancing-belt) | An Arduino-based hardware project using ultrasonic sensors and a buzzer. |
 | [WiselyFin](https://harsheel-kumar-sahoo.github.io/WiselyFin/) | An AI/voice-based gamified financial literacy platform. |
 
